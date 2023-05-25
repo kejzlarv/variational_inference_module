@@ -13,7 +13,7 @@ cmdstan_version()
 library(tidyverse)
 
 ## Get data
-PSID <- read.csv("https://raw.githubusercontent.com/monika76five/ProbBayes/master/R%20Code/chapter%2012/data/LaborParticipation.csv")
+PSID <- read.csv("https://bit.ly/LaborVar")
 
 ## Input for stan model
 
